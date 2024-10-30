@@ -1,0 +1,4 @@
+admin1,1,admin
+kai,1,purchaser
+santa,2,inventory checker
+admin2,2,admin
